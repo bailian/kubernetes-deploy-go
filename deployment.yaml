@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.c3onject.com.br
+  - host: go.rancher.c3object.com.br
     http:
       paths:
         - path: /
